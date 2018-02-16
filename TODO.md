@@ -87,9 +87,9 @@
   * [x] Generate new Tetromino random sequence per game turn
   * [x] Improve ending UI: Add WON green badge under player name
     * [x] Regression: Change "WON" badge to not block user score
-* [ ] Disable controls when user isn't playing
+* [x] Encourage players to play "best x out of y"
+* [x] Disable controls when user isn't playing
 * [ ] Side controls on landscape mobile
-* [ ] Encourage players to play "first x out of y" on game over
 * [ ] Add copy to clipboard btn to "Invite or play" screen
   * [ ] Copy to clipboard when clicking on "2P insert coin"
 * [ ] Don't request user auth when game is full (allow guests to watch)
